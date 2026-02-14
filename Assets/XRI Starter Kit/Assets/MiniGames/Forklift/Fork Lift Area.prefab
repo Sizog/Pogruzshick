@@ -501,7 +501,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_Resource: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.15
@@ -711,7 +711,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_Resource: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.08
@@ -871,7 +871,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 43d817ca7df1bfb4eb3f728761f525c8, type: 3}
   m_Resource: {fileID: 8300000, guid: 43d817ca7df1bfb4eb3f728761f525c8, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.01
@@ -1000,7 +1000,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_Resource: {fileID: 8300000, guid: 97d14f45615450c4faf9ac7d4cb9a730, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
@@ -2517,8 +2517,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
   m_Handle: {fileID: 3441031285070057713}
   m_UseControllerForPosition: 1
   m_Value: 0
@@ -2862,8 +2860,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
   m_Handle: {fileID: 3441031283899097153}
   m_UseControllerForPosition: 1
   m_Value: 1
@@ -3275,8 +3271,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
   m_Handle: {fileID: 3441031283632233488}
   m_UseControllerForPosition: 1
   m_Value: 0.5
@@ -3468,8 +3462,6 @@ MonoBehaviour:
   m_DisableVisualsWhenBlockedInGroup: 1
   m_StartingSelectedInteractable: {fileID: 0}
   m_StartingTargetFilter: {fileID: 0}
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
   m_HoverEntered:
     m_PersistentCalls:
       m_Calls: []
@@ -3573,7 +3565,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 73bd19702a335e646a528fc7af3065fe, type: 3}
   m_Resource: {fileID: 8300000, guid: 73bd19702a335e646a528fc7af3065fe, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.02
@@ -5223,8 +5215,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
 --- !u!114 &7102459869177560605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5538,8 +5528,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
 --- !u!114 &318229371481019783
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6249,7 +6237,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d472408b66d3fcc46bad633ab1257789, type: 3}
   m_Resource: {fileID: 8300000, guid: d472408b66d3fcc46bad633ab1257789, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
@@ -7004,7 +6992,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -7306,8 +7293,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
 --- !u!114 &6569743257346348257
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7582,7 +7567,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -7807,8 +7791,6 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
-  m_AutoFindParentInteractableInHierarchy: 0
-  m_ParentInteractableObject: {fileID: 0}
 --- !u!114 &6569743257850519335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8065,7 +8047,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -8276,7 +8257,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -10265,7 +10245,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
